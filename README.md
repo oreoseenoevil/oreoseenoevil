@@ -52,7 +52,7 @@
   <br />
 </div>
 
-<div>
+<div align="center">
   <hr />
   <img src="https://github-readme-stats.vercel.app/api?username=oreoseenoevil&count_private=true" />
 <div>
