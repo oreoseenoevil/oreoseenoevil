@@ -18,34 +18,34 @@
   <br/>
   <div align="center">
     <a href="https://html.com/">
-      <img src="assets/icons/html5-2.svg" style="width:50px" alt="html5" title="HTML5" />
+      <img src="assets/icons/html5-2.svg" height="45px" alt="html5" title="HTML5" />
     </a>
     <a href="https://sass-lang.com/">
-      <img src="assets/icons/node-sass.svg" style="width:50px" alt="sass" title="Sass" />
+      <img src="assets/icons/node-sass.svg" height="45px"alt="sass" title="Sass" />
     </a>
     <a href="https://www.javascript.com/">
-      <img src="assets/icons/logo-javascript.svg" style="width:50px" alt="javascript" title="Javascript" />
+      <img src="assets/icons/logo-javascript.svg" height="45px" alt="javascript" title="Javascript" />
     </a>
     <a href="https://www.javascript.com/">
-      <img src="assets/icons/nodejs-1.svg" style="width:50px" alt="nodejs" title="Nodejs" />
+      <img src="assets/icons/nodejs-1.svg" height="45px" alt="nodejs" title="Nodejs" />
     </a>
     <a href="https://reactjs.org/">
-      <img src="assets/icons/reactjs.svg" style="width:50px" alt="react" title="React" />
+      <img src="assets/icons/reactjs.svg" height="45px" alt="react" title="React" />
     </a>
     <a href="https://redux.js.org/">
-      <img src="assets/icons/redux.svg" style="width:50px" alt="redux" title="Redux" />
+      <img src="assets/icons/redux.svg" height="45px" alt="redux" title="Redux" />
     </a>
     <a href="https://webpack.js.org/">
-      <img src="assets/icons/webpack-icon.svg" alt="webpack" title="Webpack" style="width:50px" />
+      <img src="assets/icons/webpack-icon.svg" alt="webpack" title="Webpack" height="45px" />
     </a>
     <a href="https://github.com/">
-      <img src="assets/icons/github-icon.svg" alt="github" title="Github" style="width:50px" />
+      <img src="assets/icons/github-icon.svg" alt="github" title="Github" height="45px" />
     </a>
     <a href="https://code.visualstudio.com/">
-      <img src="assets/icons/vscode.svg" alt="vscode" title="VsCode" style="width:50px" />
+      <img src="assets/icons/vscode.svg" alt="vscode" title="VsCode" height="45px" />
     </a>
     <a href="https://git-scm.com/">
-      <img src="assets/icons/git-icon.svg" alt="git" title="Git" style="width:50px" />
+      <img src="assets/icons/git-icon.svg" alt="git" title="Git" height="45px" />
     </a>
   </div>
   <br />
