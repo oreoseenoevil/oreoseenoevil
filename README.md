@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello%2C+I'm+Jessie;Welcome+Dao+friend;Ah%2C+you+can+forget+it;Hmph.+What+a+waste+of+time.;Go+and+fall+off+a+cliff;Nee+hee+hee+hee+hee!" alt="undead merchant darksoul" />
+  <img src="assets/gif/rick-astley-never-gonna-give-you-up.gif" alt="rick astley" height="200px" />
+  <br />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello%2C+I'm+Jessie;Welcome+Dao+friend;Ah%2C+you+can+forget+it;+What+a+waste+of+time.;Go+and+fall+off+a+cliff;Nee+hee+hee+hee+hee!" alt="undead merchant darksoul" />
 </p>
 <div align="center">
   <hr />
