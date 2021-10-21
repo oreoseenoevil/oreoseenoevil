@@ -14,6 +14,9 @@
 </div>
 <div>
   <p align="center">
+  <img src="assets/gif/john-travolta-pulp-fiction.gif" alt="rick astley" height="200px" />
+  <br />
+  <br />
     <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Technologies+and+Tools;I've+been+with+and;didn't+betrayed+me" alt="Intro" />
   </p>
   <hr />
