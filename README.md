@@ -53,6 +53,9 @@
     <a href="https://git-scm.com/">
       <img src="assets/icons/git-icon.svg" alt="git" title="Git" height="45px" />
     </a>
+    <a href="https://aws.amazon.com/">
+      <img src="assets/icons/aws-logo.svg" alt="git" title="Git" height="45px" />
+    </a>
   </div>
   <br />
   <br />
