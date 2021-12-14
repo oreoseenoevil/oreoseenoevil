@@ -32,6 +32,9 @@
     <a href="https://www.javascript.com/">
       <img src="assets/icons/logo-javascript.svg" height="45px" alt="javascript" title="Javascript" />
     </a>
+    <a href="https://www.typescriptlang.org/">
+      <img src="assets/icons/typescript.svg" height="45px" alt="html5" title="TypeScript" />
+    </a>
     <a href="https://www.javascript.com/">
       <img src="assets/icons/nodejs-1.svg" height="45px" alt="nodejs" title="Nodejs" />
     </a>
