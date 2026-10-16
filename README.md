@@ -18,7 +18,7 @@
 I have 9+ years building production web apps end to end: schema and APIs, React and Next.js front ends, CI/CD and AWS deploys. I turn complicated workflows into products that feel simple.
 
 - **Atrium OS** (founder): multi-tenant property and rental management SaaS with automatic billing, official receipts, accounting, budgets, procurement and supplier bills. Next.js, tRPC, MongoDB, Tailwind, AWS.
-- **Invenire and Invenire Review AI** (S2Data): records and document platform with AI-assisted review, full-text search and background jobs. Next.js, MongoDB, Elasticsearch, BullMQ, OpenAI.
+- **Client work:** records and document platform with AI-assisted review, full-text search and background jobs. Next.js, MongoDB, Elasticsearch, BullMQ.
 - **Earlier:** Permission.io (fintech and web3), Accenture · Solution.AI (workforce analytics), Fuxam, and freelance clients.
 
 ## How I build
