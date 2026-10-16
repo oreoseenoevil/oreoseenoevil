@@ -1,86 +1,45 @@
+<h1 align="center">Jessie Tarrosa</h1>
+
 <p align="center">
-  <img src="assets/gif/rick-astley-never-gonna-give-you-up.gif" alt="rick astley" height="200px" />
+  <b>Senior Full-Stack Engineer · React, Next.js, TypeScript, Node · AI-assisted development with Claude Code</b>
   <br />
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hello%2C+I'm+Jessie;Welcome+Dao+friend;Ah%2C+you+can+forget+it;+What+a+waste+of+time.;Go+and+fall+off+a+cliff;Nee+hee+hee+hee+hee!" alt="undead merchant darksoul" />
+  Cebu, Philippines · open to remote contract and full-time work
 </p>
-<div align="center">
-  <hr />
-  <p align="center">
-    Yes, that's right. I'm a web developer, you may usually see me working on a FrontEnd
-  </p>
-  <br />
-  <br />
-</div>
-<div>
-  <p align="center">
-  <img src="assets/gif/john-travolta-pulp-fiction.gif" alt="rick astley" height="200px" />
-  <br />
-  <br />
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Technologies+and+Tools;I've+been+with+and;didn't+betrayed+me" alt="Intro" />
-  </p>
-  <hr />
-  <br/>
-  <br/>
-  <div align="center">
-    <a href="https://html.com/">
-      <img src="assets/icons/html5-2.svg" height="45px" alt="html5" title="HTML5" />
-    </a>
-    <a href="https://sass-lang.com/">
-      <img src="assets/icons/node-sass.svg" height="45px"alt="sass" title="Sass" />
-    </a>
-    <a href="https://www.javascript.com/">
-      <img src="assets/icons/logo-javascript.svg" height="45px" alt="javascript" title="Javascript" />
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      <img src="assets/icons/typescript.svg" height="45px" alt="html5" title="TypeScript" />
-    </a>
-    <a href="https://www.javascript.com/">
-      <img src="assets/icons/nodejs-1.svg" height="45px" alt="nodejs" title="Nodejs" />
-    </a>
-    <a href="https://reactjs.org/">
-      <img src="assets/icons/reactjs.svg" height="45px" alt="react" title="React" />
-    </a>
-    <a href="https://redux.js.org/">
-      <img src="assets/icons/redux.svg" height="45px" alt="redux" title="Redux" />
-    </a>
-    <a href="https://webpack.js.org/">
-      <img src="assets/icons/webpack-icon.svg" alt="webpack" title="Webpack" height="45px" />
-    </a>
-    <a href="https://github.com/">
-      <img src="assets/icons/github-icon.svg" alt="github" title="Github" height="45px" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-      <img src="assets/icons/vscode.svg" alt="vscode" title="VsCode" height="45px" />
-    </a>
-    <a href="https://git-scm.com/">
-      <img src="assets/icons/git-icon.svg" alt="git" title="Git" height="45px" />
-    </a>
-    <a href="https://aws.amazon.com/">
-      <img src="assets/icons/aws-logo.svg" alt="git" title="Git" height="45px" />
-    </a>
-  </div>
-  <br />
-  <br />
-</div>
 
-<div align="center">
-  <hr />
-  <img src="https://github-readme-stats.vercel.app/api?username=oreoseenoevil&count_private=true" />
-<div>
+<p align="center">
+  <a href="https://jessiet.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jessiedev/">LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/15SlHoyTbgKL_6MY576gk8CglH0AoDnnS/view?usp=sharing">3-minute product walkthrough</a> ·
+  <a href="mailto:app.creator@jessiet.dev">app.creator@jessiet.dev</a>
+</p>
 
+## About
 
-<!--
-**oreoseenoevil/oreoseenoevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 9+ years building production web apps end to end: schema and APIs, React and Next.js front ends, CI/CD and AWS deploys. I turn complicated workflows into products that feel simple.
 
-Here are some ideas to get you started:
+- **Atrium OS** (founder): multi-tenant property and rental management SaaS with automatic billing, official receipts, accounting, budgets, procurement and supplier bills. Next.js, tRPC, MongoDB, Tailwind, AWS.
+- **Invenire and Invenire Review AI** (S2Data): records and document platform with AI-assisted review, full-text search and background jobs. Next.js, MongoDB, Elasticsearch, BullMQ, OpenAI.
+- **Earlier:** Permission.io (fintech and web3), Accenture · Solution.AI (workforce analytics), Fuxam, and freelance clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I build
+
+Claude Code is my main environment. I plan first, run parallel sub-agents that each own their own files, and nothing ships until the type check, linter and tests pass and I've reviewed the diff. The rules I work from are public: [CLAUDE.md](https://github.com/oreoseenoevil/oreoseenoevil.github.io/blob/master/CLAUDE.md) and [AGENTS.md](https://github.com/oreoseenoevil/oreoseenoevil.github.io/blob/master/AGENTS.md).
+
+## Stack
+
+<p>
+  <img src="assets/icons/typescript.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="assets/icons/reactjs.svg" height="40" alt="React" title="React" />
+  <img src="assets/icons/nextjs.svg" height="40" alt="Next.js" title="Next.js" />
+  <img src="assets/icons/nodejs-1.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="assets/icons/mongodb.svg" height="40" alt="MongoDB" title="MongoDB" />
+  <img src="assets/icons/postgresql.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/icons/aws-logo.svg" height="40" alt="AWS" title="AWS" />
+  <img src="assets/icons/docker.svg" height="40" alt="Docker" title="Docker" />
+  <img src="assets/icons/vercel.svg" height="40" alt="Vercel" title="Vercel" />
+  <img src="assets/icons/git-icon.svg" height="40" alt="Git" title="Git" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oreoseenoevil&count_private=true" alt="GitHub stats" />
+</p>
